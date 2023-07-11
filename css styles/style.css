@@ -141,7 +141,7 @@ line-height: 30px;
 margin-left: 200px;
 
 }
-.sign-btn{
+.crime{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: inline-flex;
 padding: 20px 43px;
@@ -179,6 +179,7 @@ margin-right: 350px;
     text-align: center;
     font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #272727;
   
 }
 .in-info{
@@ -190,6 +191,63 @@ font-size: 100%;
 .all-ig-image{
     display: flex;
     justify-content: center;
-    gap: 100px;
+    gap: 50px;
     margin-top: 60px;
 }
+.kalamanik{
+    max-width: 100%;
+    height: auto;
+    margin-top: 40px;
+    margin-left: 280px;
+    position: relative;
+}
+.bn{
+   
+    position: absolute;
+    top: 0;
+
+}
+.potato{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left:  550px;
+    margin-top: 80px;
+    font-size: 40px;
+    color: #272727;
+}
+.chill{
+    padding-left:  620px;
+    margin-top: 4px;
+    flex-direction: column;
+font-size: 100%;
+color: rgba(39, 39, 39, 0.60);
+}
+.Enter{
+    width: 700px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #FFF;
+margin-top: 100px;
+margin-left: 30%;
+
+}
+.me{
+    width: 150px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #E55473;
+margin-left: 109%;
+
+
+}
+.you{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 8px;
+    background: #E55473;
+    width: 88px;
+    color: white;
+    font-size: 18px;
+    
+}
+
