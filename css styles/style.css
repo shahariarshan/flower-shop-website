@@ -1,4 +1,181 @@
-*{
-    margin: 0px;
-    padding: 0px;
+.banner{
+    display: flex;
+    justify-content: space-between;
+    padding: 180px;
+    padding-right: 300px;
+    background: rgba(229, 84, 115, 0.10);
+    padding-bottom: 0px;
+
+}
+
+.about{
+    display: flex;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+}
+.Description{
+    display: flex;
+    width: 600px;
+    flex-direction: column;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px;
+   
+}
+.flower{
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.btn{
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+}
+.shop{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.right{
+    width: 630px;
+    height: 800px;
+    /* flex-shrink: 0; */
+}
+
+/* section styles */
+
+.head{
+    color: #272727;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 700;
+    
+  
+}
+.flw{
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;  
+    text-align: center;
+    display: flex;
+flex-direction: column;
+flex-shrink: 0;
+    
+}
+.all-flower{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-right: 250px;
+    gap: 180px;
+   
+
+}
+.details{
+     align-items: center;
+}
+.underline{
+    text-decoration-line: underline;
+    margin-top: 800px;
+    margin-left: -800px;
+}
+.first{
+    width: 464px;
+    height: 638px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    border-bottom: 300px;
+}
+.second{
+    width: 464px;
+    height: 638px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.third{
+    width: 464px;
+    height: 638px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.main-header{
+width: 2000px;
+height: 650px;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05); 
+display: flex;
+justify-content: space-around;
+margin-top: 30px;
+}
+
+.main-head{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-left: 200px;
+}
+.div-nain{
+    display: flex;
+width: 594px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-left: 200px;
+
+}
+.sign-btn{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+margin-left: 400px;
+border: none;
+}
+.sign{
+    color: #FFF;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.about-main{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.off{
+   color:  #E55473;
+}
+.rflower{
+    width: 318px;
+height: 420px;
+flex-shrink: 0;
+margin-top: 98px;
+margin-bottom: 100px;
+margin-right: 350px;
 }
