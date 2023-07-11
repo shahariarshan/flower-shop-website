@@ -250,4 +250,33 @@ margin-left: 109%;
     font-size: 18px;
     
 }
+.foot{
+   
+    background-color: black;
+    width: 2020px;
+height: 449px;
+flex-shrink: 0;
+}
+.shuu
+{
+    color: #FFF;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 100px;
+  
+
+}
+.Fluu{
+    color: #E55473;
+}
+.foot-end{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    
+}
+.copy{
+    text-align: center;
+    color: #FFF;
+}
 
